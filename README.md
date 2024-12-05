@@ -2,6 +2,10 @@
 
 A fun and interactive Whack-a-Mole game implemented in JavaScript.
 
+# Demo
+
+🎮 Play Now: https://ridwan.hostspot.online
+
 ## Description
 
 This Whack-a-Mole game is a simple yet entertaining web-based game where players need to click on moles that randomly appear in holes. The game tests the player's reflexes and speed.
